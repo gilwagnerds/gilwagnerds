@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-wagner-souza-oliveira-7b626824/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544998883277?text=Ol%C3%A1%21+Sou+o+Gil+Wagner+e+estou+a+sua+disposi%C3%A7%C3%A3o.+Em+que+posso+servi-lo%3F/)
 
-![Gil Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=gilwagnerds&show_icons=true&theme=tokyonight) 
+![Gil Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=gilwagnerds&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias que eu uso no dia a dia.
 <div style="display: inline_block"><br/>
