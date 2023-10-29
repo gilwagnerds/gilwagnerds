@@ -8,7 +8,6 @@
 
 
 ### Tecnologias que eu uso no dia a dia.
-
 <div style="display: inline_block"><br/>
     <img align="center alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
      <img align="center alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -17,4 +16,4 @@
     <img align="center alt="html5" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   </div>
 
-  ### Apaixonado por Cristo. Também por tecnologia e educação e por mudar a vida das pessoas através da Ciência de Dados.
+  #### Apaixonado por Cristo. Também por tecnologia e educação e por mudar a vida das pessoas através da Ciência de Dados.
